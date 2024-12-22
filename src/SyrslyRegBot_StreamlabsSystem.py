@@ -30,11 +30,11 @@ clr.AddReference("IronPython.Modules.dll")
 #---------------------------
 #   [Required] Script Information
 #---------------------------
-ScriptName = "SyrslyRegBot"
-Website = "https://www.syrsly.com"
-Description = "Use regex to manage commands and responses to commands"
-Creator = "Syrsly"
-Version = "1.0.0"
+ScriptName = "lvl req"
+Website = "https://linktr.ee/alexcastxd"
+Description = "level requests script"
+Creator = "killmix25"
+Version = ""
 
 #---------------------------
 #   Settings Handling

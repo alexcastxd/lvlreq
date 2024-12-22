@@ -6,8 +6,9 @@ regex tester (just in case idk): https://regexr.com/
 ## Requirements:
 
 - Streamlabs Chatbot (ofc xd)
-- Python (waow)
+  - Requires Python 2.7.13
 - gd.py (API for GD in Python)
+  - Requires Python 3.8+
 
 
 ## Limitations:
